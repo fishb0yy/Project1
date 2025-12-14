@@ -1,0 +1,11 @@
+Jogador;901
+Jogador;757
+Jogador;179
+Jogador;217
+Jogador;1166
+Jogador;1232
+Jogador;819
+Jogador;421
+Jogador;2020
+jogador;1004
+player;2815
